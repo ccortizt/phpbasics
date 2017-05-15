@@ -1,0 +1,62 @@
+*{
+	color: black !important;
+	font-family: "MyriadPro Regular", Helvetica, Arial, sans-serif;
+}
+
+div{
+	margin: 0 !important;
+}
+
+.center{
+	text-align:center;
+}
+
+#language-bar{
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: #d1d3d4;
+	border: none;
+}
+
+#language-title{
+	padding: 0;
+	font-size: 13pt;
+}
+
+#language-selector{
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: #d1d3d4;
+	color: black;
+}
+
+#language-selector h2{
+	width: 100%;
+	margin: 0;
+	font-size: 14pt;
+	text-align: center;
+}
+
+#event-image{
+	width:100%;
+	vertical-align: top;
+}
+
+#title-container{
+	background-color: #e6e7e8;
+}
+
+#title-container h1{
+	margin: 0;
+	font-family: "MyriadPro Bold", Helvetica, Arial, sans-serif;
+	font-size: 24.5pt;
+}
+
+#description{
+	font-size: 12.5pt;
+	line-height: 1.5em;
+}
+
+.field-with-errors {
+  border-bottom: 3px solid #B83E2C;
+}

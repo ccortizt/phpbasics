@@ -1,3 +1,6 @@
+<!--link rel="stylesheet" type="text/css" href="style.css">
+	<script src="app.js"></script-->
+<link href="css/style.css" rel="stylesheet">
 <table width="300" border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
 <tr>
 <form name="form1" method="post" action="checklogin.php">
@@ -26,3 +29,5 @@
 </form>
 </tr>
 </table>
+
+<div class="image" style="width:430px;"><img src="img/123.jpg"></div> 
